@@ -1,0 +1,9 @@
+Package: rayafile
+Version: 9.0.12
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Your Name <your.email@example.com>
+Description: Rayafile client for Linux
+ This is the Rayafile client application, built using Qt and C++.
+Depends: libsqlite3-0, libjansson4, libsearpc1, libglib2.0-0, libseafile0, zlib1g, qtbase5-core, qtbase5-gui, qtbase5-network, qtbase5-widgets, qtbase5-dbus

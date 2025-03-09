@@ -1,0 +1,7 @@
+-DRAYAFILE_VERSION=9.0.12
+-DGLIB_VERSION_MIN_REQUIRED=GLIB_VERSION_2_26
+-DSEAFILE_CLIENT_REVISION=
+-DQUAZIP_STATIC
+-o
+/home/chuck/Downloads/rayafile/seafile-client/src/moc_network-mgr.cpp
+/home/chuck/Downloads/rayafile/seafile-client/src/network-mgr.h

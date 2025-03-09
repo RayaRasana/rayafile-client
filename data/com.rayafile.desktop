@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=RayaFile
+Comment=RayaFile desktop sync client
+TryExec=rayafile
+Exec=rayafile
+Icon=rayafile
+Type=Application
+Categories=Network;FileTransfer;

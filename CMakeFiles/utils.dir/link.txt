@@ -1,0 +1,2 @@
+/usr/bin/ar qc libutils.a CMakeFiles/utils.dir/src/utils/utils.cpp.o CMakeFiles/utils.dir/src/utils/rsa.cpp.o CMakeFiles/utils.dir/src/utils/api-utils.cpp.o CMakeFiles/utils.dir/src/utils/paint-utils.cpp.o CMakeFiles/utils.dir/src/utils/file-utils.cpp.o CMakeFiles/utils.dir/src/utils/translate-commit-desc.cpp.o CMakeFiles/utils.dir/src/utils/json-utils.cpp.o CMakeFiles/utils.dir/src/utils/log.c.o CMakeFiles/utils.dir/src/utils/stl.cpp.o CMakeFiles/utils.dir/src/utils/seafile-error.cpp.o CMakeFiles/utils.dir/src/utils/process-linux.cpp.o
+/usr/bin/ranlib libutils.a

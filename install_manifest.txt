@@ -1,0 +1,10 @@
+/usr/local/share/icons/hicolor/16x16/apps/seafile.png
+/usr/local/share/icons/hicolor/22x22/apps/seafile.png
+/usr/local/share/icons/hicolor/24x24/apps/seafile.png
+/usr/local/share/icons/hicolor/32x32/apps/seafile.png
+/usr/local/share/icons/hicolor/48x48/apps/seafile.png
+/usr/local/share/icons/hicolor/128x128/apps/seafile.png
+/usr/local/share/icons/hicolor/scalable/apps/seafile.svg
+/usr/local/share/applications/com.rayafile.desktop
+/usr/share/pixmaps/rayafile.png
+/usr/local/bin/rayafile
